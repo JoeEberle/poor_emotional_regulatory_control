@@ -39,11 +39,8 @@ To get started with the **Poor Emotional Regulatory Control ** solution reposito
  ![additional_image](poor_emotional_regulatory_control.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
