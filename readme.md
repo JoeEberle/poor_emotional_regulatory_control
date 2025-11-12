@@ -4,21 +4,11 @@
 
 ## Calculation and stratification of Risk based upon survey (BRFSS) of specific control behaviors (eating disorders, binge dirking, or substance abuse 
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Poor Emotional Regulatory Control ** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Poor Emotional Regulatory Control ** 
 
 Calculation and stratification of Risk based upon survey (BRFSS) of specific control behaviors (eating disorders, binge dirking, or substance abuse 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
